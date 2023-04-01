@@ -1,0 +1,9 @@
+com\mycompany\model\Orcamento.class
+com\mycompany\model\IcmsMG.class
+com\mycompany\model\IcmsFactory.class
+com\mycompany\model\IcmsSP.class
+com\mycompany\model\Model.class
+com\mycompany\model\IcmsRJ.class
+com\mycompany\model\CalculoPorRegiao.class
+com\mycompany\model\IcmsES.class
+com\mycompany\model\TesteMain.class
